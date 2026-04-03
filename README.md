@@ -18,7 +18,7 @@ Python скрипт для получения текущей погоды по �
 
 1. **Клонировать репозиторий**
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/ilyarusin/weather-app.git
 cd weather-app
 ```
 
