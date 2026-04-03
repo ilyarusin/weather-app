@@ -9,10 +9,10 @@ Python скрипт для получения текущей погоды по �
 
 ## Как получить API ключ OpenWeatherMap
 
-1. **Зарегистрироваться** на [OpenWeatherMap](https://openweathermap.org/api)
-2. **Подтвердить email**
-3. **Найти API ключ** в личном кабинете -> "API Keys"
-4. **Скопировать ключ**
+1. Зарегистрироваться на [OpenWeatherMap](https://openweathermap.org/api)
+2. Подтвердить email
+3. Найти API ключ в личном кабинете -> "API Keys"
+4. Скопировать ключ
 
 ## Установка
 
